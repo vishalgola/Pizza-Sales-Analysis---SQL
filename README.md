@@ -21,6 +21,7 @@ To analyze the pizza sales dataset and uncover key patterns, trends, and revenue
 4. Daily average pizzas sold
 5. Top 3 pizza types based on revenue
 
+📈 Advanced Queries:
 1. Percentage contribution of each pizza type to total revenue
 2. Cumulative revenue analysis over time
 3. Top 3 revenue-generating pizza types by category
