@@ -7,7 +7,6 @@ This project is a comprehensive SQL-based analysis of a fictional pizza restaura
 To analyze the pizza sales dataset and uncover key patterns, trends, and revenue drivers that can help guide business decisions.
 
 🔍 Key Insights Extracted
-✅ Basic Queries:
 1. Total number of orders placed
 2. Total revenue generated
 3. Highest-priced pizza
