@@ -3,7 +3,6 @@
 🍕 Pizza Sales Analysis – SQL Project
 This project is a comprehensive SQL-based analysis of a fictional pizza restaurant's sales data. The goal is to extract actionable business insights by writing structured and optimized SQL queries.
 
-📌 Objective
 To analyze the pizza sales dataset and uncover key patterns, trends, and revenue drivers that can help guide business decisions.
 
 🔍 Key Insights Extracted
